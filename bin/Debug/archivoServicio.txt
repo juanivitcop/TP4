@@ -1,0 +1,15 @@
+20000001;12345678;Entregado;Carta;Normal;100;CABA;Av Cordoba;2101;True;True
+20000002;98765432;Entregado;Bulto;Normal;200;Mendoza;San martin;4454;True;True
+20000003;99463829;Pendiente;Carta;Normal;100;Jujuy;Intendente gomez;4542;True;False
+20000004;12345678;Entregado;Bulto;Urgente;300;Rio negro;Ramallo;1112;False;True
+20000005;98765432;Pendiente;Carta;Normal;100;GBA;Olavarria;445;True;False
+20000006;87654321;En camino;Bulto;Normal;200;Cordoba;Av Colon;234;True;True
+20000007;34593453;Entregado;Bulto;Normal;200;Mendoza;Alberdi;2600;False;False
+20000008;12345678;Entregado;Carta;Urgente;200;GBA;Alsina;1934;True;False
+20000009;98765432;Pendiente;Carta;Normal;100;La pampa;Junin;2445;False;False
+20000010;74837394;Entregado;Bulto;Normal;200;CABA;Av Cordoba;987;False;False
+20000011;98765432;En camino;Bulto;Urgente;300;Mendoza;Saavedra;1234;True;False
+20000012;41459874;En camino;Carta;Normal;100;CABA;San martin;1098;True;True
+20000013;74837394;Pendiente;Bulto;Urgente;300;Cordoba;Montevideo;1203;False;False
+20000014;12345678;Pendiente;Bulto;Normal;200;GBA;Lavalle;876;False;False
+20000015;87654321;Entregado;Carta;Normal;100;Cordoba;Congreso;239;False;False
